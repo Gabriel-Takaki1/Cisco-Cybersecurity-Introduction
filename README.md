@@ -18,3 +18,7 @@ Este repositório foi criado para registrar a conclusão do curso de **Introduç
 A credencial oficial foi emitida através da plataforma Credly e pode ser validada no link abaixo:
 
 🔗 [Verificar credencial na Credly](https://www.credly.com/badges/a2476185-793f-4bb0-bba1-55d2fea12e6c)
+<img width="339" height="338" alt="image" src="https://github.com/user-attachments/assets/76f34985-eba2-4800-9aaa-2cfe934724f4" />
+<p align="center">
+  <img src="certificado.png" alt="Cisco Cybersecurity Badge" width="250">
+</p>
